@@ -4,6 +4,7 @@ import User from "../models/user.model.js";
 
 config();
 
+
 const seedUsers = [
   // Female Users
   {
